@@ -1,0 +1,29 @@
+1) Cómo compilar y ejecutar la tarea:
+Para ejecutar la tarea primero compilamos el código, para que se cree un archivo ejecutable que es el programa. Al ejecutarlo se mostrará un menú con opciones y se debe escribir por teclado el número que señale esa opción y por consiguiente el enter. Algunas opciones y recomendaciones son las siguientes:
+
+OPCIÓN 1: Registrar punto de interés
+Se registra un punto de interés, se debe escribir por teclado el nombre del punto que se creará el perfil. Importante que todo campo que sea letra tiene un máximo de 30 caracteres, si este se supera se volverá a pedir ese dato en concreto.
+
+OPCIÓN 2: Mostrar datos de punto de interés
+Se muestra el perfil del punto de interés que se desea encontrar, si no es hallado se mostrará por mensaje que el punto de interés no se encuentra.
+
+OPCIÓN 3: Eliminar punto de interés
+Se elimina un punto de interés específico ingresando su nombre.
+
+OPCIÓN 4: Registrar turista
+Se registra un turista ingresando los datos solicitados.
+
+OPCIÓN 5: Agregar lugar favorito a turista
+Se agrega un lugar favorito a un turista en específico almacenado en un HashMap.
+
+OPCIÓN 6: Mostrar turistas por país
+Muestra los turistas registrados por país.
+
+OPCIÓN 7: Mostrar todos los puntos de interés de un tipo
+Muestra todos los puntos de interés de un tipo específico.
+
+OPCIÓN 8: Importar puntos de interés y turistas desde archivos CSV
+Importa los datos de puntos de interés y turistas desde un archivo CSV especificado.
+
+OPCIÓN 9: Exportar puntos de interés y turistas a archivos CSV
+Exporta los datos de puntos de interés y turistas a un archivo CSV especificado.
